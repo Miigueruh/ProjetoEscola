@@ -16,13 +16,23 @@ using System.Windows.Shapes;
 namespace WpfApp1
 {
     /// <summary>
-    /// Interaction logic for home.xaml
+    /// Interaction logic for cadastro.xaml
     /// </summary>
-    public partial class home : Page
+    public partial class cadastro : Page
     {
-        public home()
+        public cadastro()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

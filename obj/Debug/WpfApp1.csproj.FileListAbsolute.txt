@@ -13,3 +13,5 @@ C:\Users\Miguel\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateRe
 C:\Users\Miguel\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 C:\Users\Miguel\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\Miguel\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Miguel\source\repos\WpfApp1\WpfApp1\obj\Debug\Telas\home.g.cs
+C:\Users\Miguel\source\repos\WpfApp1\WpfApp1\obj\Debug\Telas\home.baml
